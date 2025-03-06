@@ -1,6 +1,10 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+You would need TMDB api_key to run this project. 
+Add following in .env file created in root folder for the app to work
+
+REACT_APP_API_KEY=<your_api_key>
 
 ## Available Scripts
 
